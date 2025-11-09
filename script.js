@@ -9,7 +9,7 @@ function inspire() {
     "Day 1 or One Day — you decide.",
     "Every expert was once a beginner.",
     "Code is poetry. Write yours.",
-    "17 weeks. 4 hours. No excuses.",
+    "life is all about failing and standing back up if your reading this thank you",
     "The best time to plant a tree was 10 years ago. The second best is now."
   ];
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
